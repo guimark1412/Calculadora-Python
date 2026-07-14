@@ -49,7 +49,7 @@ while True:
 
 
 
-                   #Vi os metodos lower e startswith no curso
+                    #Vi os metodos lower e startswith no curso
     sair = input('\nDeseja Sair? ').lower().startswith('s')
     if sair:
         break
